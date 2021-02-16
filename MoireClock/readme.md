@@ -21,13 +21,13 @@ And [somebody](https://www.youtube.com/watch?v=cIzBdA6gmNI&t=55s) got inspired b
 - [Switch](https://nl.aliexpress.com/item/32921026422.html)
 - Battery box [AAA](https://nl.aliexpress.com/item/4001080222745.html) or [AA](https://nl.aliexpress.com/item/1005002137109137.html)
 
-- Special machined parts by [Jan Ridders](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbW12V2FkbG1TMWdkT09udENtUGhfNmduVS14QXxBQ3Jtc0ttRWxiSXQ2dnR4ajVVaFM0RHZzcTJ1WWVyV3VsalEtbnlkekV5LXdLUEs3V05YWDhXTURkb3pENXhlRkZxVXZGQkp5RjRreGFtRkZxWXVwbHJsaHZYNUFkMXlJRTY1SlRaWGw0YzA4NExDMWFReXhmRQ&q=http%3A%2F%2Fridders.nu%2FWebpaginas%2Fpagina_moire-art_Maarten%2Fmoire-art_frameset.htm).
-![Motor pulley axes mount](MotorPulleyAxesMount.png)
+- Special machined parts by [Jan Ridders](http://ridders.nu/Webpaginas/pagina_moire-art_Maarten/moire-art_frameset.htm).
+  ![Motor pulley axes mount](MotorPulleyAxesMount.png)
 
 ## STL files
 
 - [BackDiscWithHub](BackDiscWithHub.stl)    ![BackDiscWithHub](BackDiscWithHub.png)
-- [DFrontDiscWithHub](FrontDiscWithHub.stl) ![FrontDiscWithHub](FrontDiscWithHub.png)
+- [FrontDiscWithHub](FrontDiscWithHub.stl)  ![FrontDiscWithHub](FrontDiscWithHub.png)
 - [Body](Body.stl)                          ![Body](Body.png)
 - [Lid](Lid.stl)                            ![Lid](Lid.png)
 - [Stand](Stand.stl)                        ![Stand](Stand.png)
