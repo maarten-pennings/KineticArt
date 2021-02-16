@@ -4,7 +4,7 @@
 
 - [Geneva gear](GenevaGear)       ![Geneva gear](GenevaGear.png)
 - [Hex grinder](HexGrinder)       ![Hex grinder](HexGrinder.png)
-- [Hyperbole hole](HyperbolaHole) ![Hyperbole hole](HyperbolaHole.png)
 - [Moiré clock](MoireClock)       ![Moiré clock](MoireClock.png)
+- [Hyperbole hole](HyperbolaHole) ![Hyperbole hole](HyperbolaHole.png)
 
-(doc)
+(end)
